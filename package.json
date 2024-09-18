@@ -1,0 +1,17 @@
+{
+    "name": "com.innopeaktech.testmodule",
+    "version": "1.0.0",
+    "displayName": "Unity Sub Module 1",
+    "description": "A reusable module for Unity projects.",
+    "unity": "2022.3",
+    "author": {
+      "name": "Yifan Yang",
+      "email": "yifan.yang@innopeaktech.com",
+      "url": "https://innopeaktech.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/oppo-us-research/Unity_Package_Test.git"
+    }
+  }
+  
