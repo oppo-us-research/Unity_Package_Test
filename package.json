@@ -1,6 +1,6 @@
 {
     "name": "com.innopeaktech.testmodule",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Unity Sub Module 1",
     "description": "A reusable module for Unity projects.",
     "unity": "2022.3",
@@ -12,6 +12,8 @@
     "repository": {
       "type": "git",
       "url": "https://github.com/oppo-us-research/Unity_Package_Test.git"
-    }
+    },
+    "changelog": "### v1.0.2\n- Added new feature XYZ.\n- Fixed bug in ABC.\n\n### v1.0.1\n- Initial release."
+
   }
   
