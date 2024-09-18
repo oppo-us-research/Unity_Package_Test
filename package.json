@@ -1,6 +1,6 @@
 {
     "name": "com.innopeaktech.testmodule",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Unity Sub Module 1",
     "description": "A reusable module for Unity projects.",
     "unity": "2022.3",
